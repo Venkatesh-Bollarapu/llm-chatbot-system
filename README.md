@@ -91,17 +91,9 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Note
-
-* This is a **stateless chatbot**
-* LLM does NOT remember previous messages
-* Chat history is only stored in UI (`session_state`)
-
----
 
 ## 🔮 Upcoming Improvements
 
-* Add conversation memory (stateful chatbot)
 * Add persistent storage
 * Add RAG (Retrieval-Augmented Generation)
 
