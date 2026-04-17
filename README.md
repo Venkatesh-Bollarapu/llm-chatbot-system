@@ -29,7 +29,7 @@ This is the **initial version** of the project, demonstrating a stateless chatbo
 .
 ├── app.py
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── .gitignore
 └── README.md
 ```
